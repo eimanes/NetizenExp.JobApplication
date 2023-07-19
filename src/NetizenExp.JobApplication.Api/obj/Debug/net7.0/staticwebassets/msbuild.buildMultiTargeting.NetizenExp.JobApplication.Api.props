@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NetizenExp.JobApplication.Api.props" />
+</Project>

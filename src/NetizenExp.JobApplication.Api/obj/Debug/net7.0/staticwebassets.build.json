@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1dFfMqbo0/2JJtoPaa03f8WJh9/YmRfZrm2bG/xhrtY=",
+  "Source": "NetizenExp.JobApplication.Api",
+  "BasePath": "_content/NetizenExp.JobApplication.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
