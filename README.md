@@ -16,6 +16,7 @@ git clone https://github.com/eimanes/NetizenExp.JobApplication.git
 
 2. Open terminal and run
 ```
+cd src/NetizenExp.JobApplication.Api
 dotnet restore
 ```
 
