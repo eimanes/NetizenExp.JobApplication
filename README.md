@@ -29,4 +29,5 @@ dotnet run
    - url : `http://localhost:5000/api/checkEmail?email=eimansalleh.5@gmail.com`
 
 5. Response :
+
 ![image](https://github.com/eimanes/NetizenExp.JobApplication/assets/80232250/2e0a25ed-42ac-40c7-b94c-e50c77e8b808)
